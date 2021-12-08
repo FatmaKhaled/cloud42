@@ -5,7 +5,7 @@ cd cloud42
 vim Nouran-Hamdy.txt
 git add Nouran-Hamdy.txt
 git commit -m "Nouran Hamdy"
-git push origin master
+git push origin main
 
 
 
