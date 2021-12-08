@@ -1,0 +1,13 @@
+sudo yum install git-all
+
+git config --global user.name "Mostafa-Yehia"
+git config --global user.email mostafa.yehia.iti@gmail.com
+
+
+git clone git@github.com:FatmaKhaled/cloud42.git
+cd cloud42
+touch MostafaYehia
+vi MostafaYehia
+git add .
+git commit -m "Mostafa Yehia"
+git push origin main
