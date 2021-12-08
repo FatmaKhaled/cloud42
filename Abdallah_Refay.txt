@@ -1,0 +1,10 @@
+cd Documents/'version control'
+mkdir 'group repo'
+cd 'group repo'
+git clone git@github.com:FatmaKhaled/cloud42.git
+touch Abdallah_Refay.txt
+sudo gedit Abdallah_Refay.txt
+git add Abdallah_Refay.txt
+git commit -m "Abdallah_Refay.txt added"
+git push origin master 
+
