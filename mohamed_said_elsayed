@@ -1,0 +1,19 @@
+Mohamed Said Mohamed Elsayed
+1. Create a github account.
+2. mkdir to make lab1_version_control directory.
+3. git init in the directory.
+4. touch mohamed_file to make file
+5. vim mohamed_file to access file and edit.
+6. save the file and use git add . to stage file.
+7. git remote add origin (url for github and bitbucket)
+8. git commit -m "first commit with name"
+9. ssh-keygen -t rsa -b 4096 -C "melsayed.se@gmail.com"
+10. add ssh.pub key to github account
+11. git push -u origin
+
+12. git push -u bitbucket_origin
+	username: email
+	password: password
+
+13. git remote add fatma_origin (url)
+14. git push -u fatma_origin
